@@ -1,0 +1,26 @@
+{
+  "name": "@svelterialjs/eslint-config",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svelterialjs/eslint-config.git"
+  },
+  "keywords": [
+    "svelte",
+    "eslint-config",
+    "svelterial"
+  ],
+  "author": "TheComputerM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svelterialjs/eslint-config/issues"
+  },
+  "homepage": "https://github.com/svelterialjs/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^7.25.0",
+    "eslint-plugin-svelte3": "^3.2.0",
+    "svelte": "^3.37.0"
+  }
+}

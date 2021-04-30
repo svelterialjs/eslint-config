@@ -1,7 +1,7 @@
 {
   "name": "@svelterialjs/eslint-config",
   "version": "0.0.1",
-  "description": "",
+  "description": "ESLint config used by Svelterial.",
   "main": "index.js",
   "repository": {
     "type": "git",

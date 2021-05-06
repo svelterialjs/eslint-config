@@ -1,6 +1,6 @@
 {
   "name": "@svelterialjs/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ESLint config used by Svelterial.",
   "main": "index.js",
   "publishConfig": {
